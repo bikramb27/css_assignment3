@@ -1,0 +1,51 @@
+.outbox {
+  /* outisde box for first and second image*/
+  width: 796px;
+  height: 175px;
+  border: solid;
+  border-width: 2px 2px 2px 2px;
+  margin-left: 200px;
+}
+.outboximg3 {
+  /* outisde box for third image*/
+  border: none;
+  width: 795px;
+  height: 300px;
+  margin-left: 200px;
+}
+.boximg1 {
+  /*first image box and image adjustment class*/
+  width: 795px;
+  border-left: 0px;
+  text-align: start;
+  height: 158px;
+  border: none;
+  padding: 0px 1px 0px 1px;
+  background-image: url("Assignment-3.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.boximg2 {
+  /*second image box and image adjustment class*/
+  width: 795px;
+  border-left: 0px;
+  text-align: start;
+  height: 158px;
+  border: none;
+  padding: 0px 1px 0px 1px;
+  background-image: url("Assignment-3.PNG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+.boximg3 {
+  /*third image box and image adjustment class*/
+  width: 500px;
+  height: 300px;
+  border: solid;
+  border-width: 1px 1px 1px 1px;
+  margin-left: 160px;
+  background-image: url("Assignment-3.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
